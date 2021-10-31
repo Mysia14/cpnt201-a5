@@ -1,6 +1,6 @@
 # Web Design Tools - CNPT 201-a5
 ## Author:
-Mysia Santana
+#### Mysia Santana
 ## Links:
 * GH repo:
 * GH Page:
