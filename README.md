@@ -3,8 +3,6 @@
 
 ### Mysia Santana
 
-#### Mysia Santana
-
 ## Links:
 * GH repo: https://github.com/Mysia14/cpnt201-a5
 * GH Page:
