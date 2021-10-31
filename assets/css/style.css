@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body {
+    --tw-bg-opacity: 1;
+    background-color: rgba(254, 202, 202, var(--tw-bg-opacity));
+    justify-content: flex;
+}
+
+li {
+    @apply flex-1 m-2;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
