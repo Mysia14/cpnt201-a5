@@ -5,7 +5,7 @@
 
 ## Links:
 * GH repo: https://github.com/Mysia14/cpnt201-a5
-* GH Page:
+* GH Page: https://mysia14.github.io/cpnt201-a5/
 ## Comments:
 
 The tools used in this assignment was the Tailwind. It had seemed easy to use in the beginning but during the bulding process I had to study a little deeper about it to understand better how the tool worked and its features. I realized that I will have to do more projects using this too to get moe familiar with all the options offered by the tool. I have chosen this tool inspite the Boostrap because it was the first on that I got familiar in class.
