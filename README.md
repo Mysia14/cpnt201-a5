@@ -1,12 +1,12 @@
 # Web Design Tools - CNPT 201-a5
 ## Author:
-<<<<<<< HEAD
+
 ### Mysia Santana
-=======
+
 #### Mysia Santana
->>>>>>> 6b965d60e8399f324008f1d219e103d4b3c2a337
+
 ## Links:
-* GH repo:
+* GH repo: https://github.com/Mysia14/cpnt201-a5
 * GH Page:
 ## Comments:
 
